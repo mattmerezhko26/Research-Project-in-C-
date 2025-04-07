@@ -1,0 +1,7 @@
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\bin\Debug\BitTorrent.dll
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\bin\Debug\BitTorrent.pdb
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\BitTorrent\obj\Debug\BitTorrent.csproj.AssemblyReference.cache
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\BitTorrent\obj\Debug\BitTorrent.csproj.CoreCompileInputs.cache
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\BitTorrent\obj\Debug\BitTorrent.csproj.Up2Date
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\BitTorrent\obj\Debug\BitTorrent.dll
+C:\Users\merez\OneDrive\Desktop\research-bittorrent-master\BitTorrent\obj\Debug\BitTorrent.pdb
